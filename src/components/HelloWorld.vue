@@ -7,7 +7,7 @@
             <Card class="card">
               <p slot="title">The standard card</p>
               <div class="col2_left j_threadlist_li_left">
-                <span class="threadlist_rep_num" title="回复">8</span>
+                <span class="threadlist_rep_num" title="回复">9</span>
               </div>
               <div class="col2_right j_threadlist_li_right ">
                 <div class="threadlist_lz clearfix">
